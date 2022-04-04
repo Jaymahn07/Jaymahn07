@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaymahn07
-- 👀 I’m interested in Artificial intelligence
+- 👀 I’m interested in Data Science/ Machine Learning/ Artificial intelligence
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
