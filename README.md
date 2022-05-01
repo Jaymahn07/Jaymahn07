@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/jaymahn_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaymahn_07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joshua-pereira-25b516237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua-pereira-25b516237" height="30" width="40" /></a>
-<a href="https://kaggle.com/jaumahn07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jaumahn07" height="30" width="40" /></a>
+<a href="https://kaggle.com/jaymahn07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jaymahn07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
